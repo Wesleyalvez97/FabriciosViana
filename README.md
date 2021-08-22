@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
  <div>
- <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/PJy3Hf8jatsGh3DROr/giphy.gif?cid=790b76110f27b414aa0d2eaab6b3e5ed043e002dcaac59d8&rid=giphy.gif&ct=g" width="180" height="180">
+ <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/KdXGGEHvsSncKQCkSQ/giphy.gif?cid=790b761168a0f5c02307d6bab99f7836be8a12832e3429ca&rid=giphy.gif&ct=g" width="180" height="180">
   <a href="https://github.com/FabriciosViana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabriciosViana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriciosViana&layout=compact&langs_count=7&theme=tokyonight"/>
